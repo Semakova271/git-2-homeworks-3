@@ -9,4 +9,6 @@
      В ближайшие полгода планирую освоить новые навыки, 
      а так же развиваться дальше в данном направлении. 
 
-![Мое фото](https://skrinshoter.ru/sScR6qZXYwI)
+![Фото][def]
+
+[def]: https://skrinshoter.ru/sScR6qZXYwI
